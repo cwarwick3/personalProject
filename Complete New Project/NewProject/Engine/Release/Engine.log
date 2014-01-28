@@ -1,0 +1,8 @@
+﻿  Component.cpp
+Component.cpp(7): warning C4482: nonstandard extension used: enum 'COMPONENT_TYPES' used in qualified name
+  ComponentManager.cpp
+  IDGenerator.cpp
+     Creating library C:\Users\Chris\Desktop\Complete New Project\NewProject\\libs_release\Engine.lib and object C:\Users\Chris\Desktop\Complete New Project\NewProject\\libs_release\Engine.exp
+  Generating code
+  Finished generating code
+  Engine.vcxproj -> C:\Users\Chris\Desktop\Complete New Project\NewProject\\libs_release\Engine.dll

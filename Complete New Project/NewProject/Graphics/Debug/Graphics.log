@@ -1,0 +1,28 @@
+﻿  Window.cpp
+  VertexTypes.cpp
+  shader.cpp
+  mesh.cpp
+  GraphicsManager.cpp
+  GraphicsInterface.cpp
+  ForwardRenderer.cpp
+  FbxImporting.cpp
+  directx.cpp
+  Camera.cpp
+  Generating Code...
+ws2_32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+ws2_32.lib(WS2_32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Winmm.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+Winmm.lib(WINMM.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+d3d11.lib(d3d11.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+d3d11.lib(d3d11.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+d3dcompiler.lib(D3DCOMPILER_43.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+d3dcompiler.lib(D3DCOMPILER_43.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+d3dx11d.lib(d3dx11d_43.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+d3dx11d.lib(d3dx11d_43.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+d3dx9d.lib(d3dx9d_43.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+d3dx9d.lib(d3dx9d_43.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+comctl32.lib(COMCTL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+comctl32.lib(COMCTL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+xinput.lib(XINPUT1_3.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in wininet.lib(WININET.dll); second definition ignored
+xinput.lib(XINPUT1_3.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Graphics.vcxproj -> C:\Users\Chris\Documents\GitHub\personalProject\Complete New Project\NewProject\\libs_debug\Graphics.lib

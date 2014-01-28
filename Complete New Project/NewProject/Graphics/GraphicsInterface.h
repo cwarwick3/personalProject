@@ -1,0 +1,4 @@
+#ifndef GRAPHICSINTERFACE_H
+#define GRAPHICSINTERFACE_H
+
+#endif
